@@ -19,6 +19,6 @@ You will create a python virtual environment in the directory containing the ass
 4. Install the python dependencies in the requirements.txt file. **Make sure you virtual envronment is activated**.
    - **Run** ```pip install -r requirements.txt```
  
- 
- 
-## 3. Create a 
+## 3. Open Jupyter Notebooks
+Jupyter notebook should have installed in the previous step. Use the following command in the terminal to run Jupyter notebooks **Make sure you virtual envronment is activated**.
+1. **Run** ```jupypter notebook```
