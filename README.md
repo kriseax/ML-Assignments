@@ -22,3 +22,5 @@ You will create a python virtual environment in the directory containing the ass
 ## 3. Open Jupyter Notebooks
 Jupyter notebook should have installed in the previous step. Use the following command in the terminal to run Jupyter notebooks **Make sure you virtual envronment is activated**.
 1. **Run** ```jupypter notebook```
+
+Jupyter notebooks will open in your browser window and you can begin to explore and complete the labs
